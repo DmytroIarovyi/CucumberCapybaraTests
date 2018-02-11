@@ -13,6 +13,8 @@ Thanks and let's start!
 **Why Windows?**
 I'm using it at home!
 
+Glossary:
+
 cmd* - command line (can be opened by shortcut 'winkey+r' Run->cmd)
 ![image](https://user-images.githubusercontent.com/32220899/36077489-d5f18ac6-0f6b-11e8-8eb0-cdb319741df2.png)
 
