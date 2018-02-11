@@ -9,7 +9,7 @@ Capybara.default_driver = :selenium
 #Set default selector as css
 Capybara.default_selector = :css
  
-#Syncronization related settings
+#Synchronization related settings
 module Helpers
   def without_resynchronize
     page.driver.options[:resynchronize] = false
